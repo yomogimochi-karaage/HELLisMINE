@@ -15848,8 +15848,8 @@ function nullFunc_vjji(x) {
  err("Build with ASSERTIONS=2 for more info.");
  abort(x);
 }
-Module["wasmTableSize"] = 74314;
-Module["wasmMaxTableSize"] = 74314;
+Module["wasmTableSize"] = 74378;
+Module["wasmMaxTableSize"] = 74378;
 function invoke_dddi(index, a1, a2, a3) {
  var sp = stackSave();
  try {
